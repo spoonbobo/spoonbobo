@@ -1,6 +1,7 @@
 ### Hi there 👋
-### Whoami
-My name is Season. Having a background in AI, I seek for contributing and improving AIs in optimisation and accelerated computing.
+### About me
+My name is Season. Having a background in AI, I seek for contributing and improving AIs in optimisation and accelerated computing⚡.
+
 🔭 I’m currently working on some quantum projects leveraging CUDA Quantum simulation capabilities.
 
 <!--
