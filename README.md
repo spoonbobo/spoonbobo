@@ -2,7 +2,7 @@
 ### About me
 My name is Season. Having a background in AI, I seek for contributing and improving AIs in optimisation and accelerated computing⚡.
 
-🔭 I’m currently working on some quantum projects leveraging Qiskit/CUDA Quantum simulation capabilities.
+🔭 I’m currently working on some quantum projects leveraging CUDA Quantum simulation capabilities.
 
 🔭 I also play around AI SWEs to explore more opportunities around the frameworks 
 
