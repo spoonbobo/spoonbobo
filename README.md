@@ -2,7 +2,7 @@
 ### About me
 My name is Season. Having a background in AI, I seek for contributing and improving AIs in optimisation and accelerated computing⚡.
 
-🔭 I’m currently working on some quantum projects leveraging CUDA Quantum simulation capabilities.
+🔭 I’m currently working on some quantum projects using CUDA-Q
 
 <!--
 **spoonbobo/spoonbobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
